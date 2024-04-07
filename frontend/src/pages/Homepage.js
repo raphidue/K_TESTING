@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Homepage() {
   return (
-    <div>
-      Homepage
+    <div className="px-8">
+      Homepage Content
     </div>
   )
 }
